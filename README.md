@@ -1,13 +1,13 @@
 # CS 2400 Data Structures and Algorithms Project Studio
 
-This repository is a course-ready project menu and implementation guide for **CS 2400 – Data Structures and Advanced Programming**. It turns fifteen DSA project ideas into clearly scoped, GitHub-ready project specifications for Java students.
+This repository is a course-ready project menu and implementation guide for **CS 2400 – Data Structures and Advanced Programming**. It turns fifteen DSA project ideas into clearly scoped, GitHub-ready project specifications.
 
-The repository is intentionally designed as an **assignment guide and starter scaffold**. Students select one project, implement it in their own repository, and submit the required source code, tests, analysis, and demonstration evidence. This repository does not provide completed solutions.
+The repository is intentionally designed as an **assignment guide and starter scaffold**. Your team selects one project, implement on your own repository, and submit the required source code, tests, analysis, and demonstration evidence. This repository does not provide completed solutions.
 
 ## Quick start
 
 1. Read [`docs/assignment-overview.md`](docs/assignment-overview.md).
-2. Review the project menu below and select a project with your instructor or team.
+2. Review the project menu below and select a project with me or your team.
 3. Copy the contents of [`starter/`](starter/) into your implementation repository.
 4. Read the complete specification for the selected project in [`docs/projects/`](docs/projects/).
 5. Complete the required repository structure and submission checklist.
@@ -121,10 +121,5 @@ Do not begin with a graphical interface. First make the core data structures and
 
 ## Source and adaptation note
 
-The project menu was developed from Codegnan’s **“15 Data Structure and Algorithm (DSA) Project Ideas”** page, accessed November 19, 2026: <https://codegnan.com/data-structure-and-algorithm-project-ideas/>.
+The project menu was developed from Codegnan’s **“15 Data Structure and Algorithm (DSA) Project Ideas”**: <https://codegnan.com/data-structure-and-algorithm-project-ideas/>.
 
-This repository paraphrases and expands the ideas for a CS 2400 assignment. It is not affiliated with or endorsed by Codegnan. Any external code, data, images, or libraries used by a student must be credited in that student’s repository.
-
-## License and classroom use
-
-This repository is an instructor-created educational template. Add the course’s preferred license or classroom-use notice before publishing it outside the course.
