@@ -4,14 +4,14 @@
 
 The DSA Project Studio asks you to use data structures and algorithms to build a small, testable application around a realistic problem. The goal is not to produce the largest application. The goal is to make deliberate design choices, implement them correctly, measure or analyze them honestly, and explain the trade-offs.
 
-Choose one project from the fifteen-project menu unless your instructor assigns a specific option. A project may be completed individually or in a small team if the course policy permits.
+Choose one project from the fifteen-project menu. A project may be completed individually or in a team of two.
 
 ## Required technology baseline
 
-- Java 17 or an instructor-approved equivalent.
+- Java 17 or older.
 - Maven or another documented build system.
-- JUnit 5 or an instructor-approved testing framework.
-- A command-line interface is sufficient. A graphical or web interface is optional unless the selected project specification says otherwise.
+- JUnit 5.
+- A command-line interface is sufficient. A graphical or web interface is optional.
 - Core data structures and algorithms must be implemented by the team unless the specification explicitly permits a library. You may use Java collections for ordinary application plumbing, but your report must identify which structure performs the central algorithmic work.
 
 ## Development phases
@@ -42,4 +42,4 @@ A project is ready to submit when a reviewer can clone it, run the documented co
 
 ## Team expectations
 
-Each team member must make identifiable contributions. The repository README should list each member’s responsibilities, and `docs/CONTRIBUTIONS.md` should summarize commits, features, tests, and documentation completed by each member. Every member must be able to explain the complete design during the demo.
+Each team member must make identifiable contributions. The repository README should list each member’s responsibilities, and `docs/CONTRIBUTIONS.md` should summarize commits, features, tests, and documentation completed by each member. Every member must be able to explain the complete design during the demo and final presentation.
