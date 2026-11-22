@@ -7,11 +7,12 @@ The repository is intentionally designed as an **assignment guide and starter sc
 ## Quick start
 
 1. Read [`docs/assignment-overview.md`](docs/assignment-overview.md).
-2. Review the project menu below and select a project with me or your team.
-3. Copy the contents of [`starter/`](starter/) into your implementation repository.
-4. Read the complete specification for the selected project in [`docs/projects/`](docs/projects/).
-5. Complete the required repository structure and submission checklist.
-6. Run the tests and package the project before submitting the GitHub URL.
+2. Form a group of two members. 
+3. Review the project menu below and select a project with your team.
+4. Copy the contents of [`starter/`](starter/) into your implementation repository.
+5. Read the complete specification for the selected project in [`docs/projects/`](docs/projects/).
+6. Complete the required repository structure and submission checklist.
+7. Run the tests and package the project before submitting the GitHub URL.
 
 The starter scaffold uses Java 17 and Maven:
 
@@ -45,7 +46,7 @@ The project titles and broad difficulty levels are adapted from the Codegnan res
 
 ## Common learning outcomes
 
-After completing one project, a student should be able to:
+After completing one project, you should be able to:
 
 - Translate a real-world problem into an implementable specification.
 - Select data structures based on required operations and constraints.
@@ -54,7 +55,7 @@ After completing one project, a student should be able to:
 - Design tests for normal cases, boundary cases, invalid input, and failure behavior.
 - Persist, validate, and report data responsibly when the project requires it.
 - Use GitHub, Maven, documentation, and issue tracking as part of a professional workflow.
-- Communicate design decisions with diagrams, examples, benchmarks, and a short demo.
+- Communicate design decisions with diagrams, examples, benchmarks, and a short demo (This part is for the presentation).
 
 ## Required submission
 
@@ -84,7 +85,7 @@ The repository must include:
 5. Automated tests with meaningful assertions and a short test plan.
 6. Setup, run, and test instructions that work from a clean clone.
 7. Synthetic sample data and at least one reproducible example session or output.
-8. A short demo video or 4–8 screenshots showing the main workflow.
+8. A short demo video showing the main workflow (this does not need narration).
 9. A contribution log if the project is completed by a team.
 10. A statement identifying any generative-AI assistance and what was reviewed or changed by the authors.
 
@@ -112,11 +113,11 @@ Do not begin with a graphical interface. First make the core data structures and
 
 ## Scope and safety
 
-- Use Java 17 unless your instructor approves another language or version.
+- Use Java.
 - Prefer the Java standard library for the core implementation. If a third-party library is used, document why and list its license.
 - Use synthetic or public-domain data. Do not commit real student records, bank credentials, private email, personal addresses, API keys, or scraped personal information.
 - The banking, spam-filter, traffic, property-search, and crawler projects are educational simulations. They are not production security, financial, transportation, or compliance systems.
-- For networked projects, use an offline fixture mode for tests and respect site terms, robots.txt, rate limits, and instructor-approved domains.
+- For networked projects, use an offline fixture mode for tests and respect site terms, robots.txt, and rate limits.
 - Commit regularly with meaningful messages. Do not commit generated build output, secrets, or IDE metadata.
 
 ## Source and adaptation note
