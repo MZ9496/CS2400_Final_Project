@@ -36,7 +36,7 @@ Summarize normal, boundary, invalid-input, and integration tests. Include the co
 
 ## 8. Demonstration
 
-Link to the demo video or list the screenshot filenames. Explain the workflow shown.
+Link to the demo video. Explain the workflow shown.
 
 ## 9. Limitations and future work
 
