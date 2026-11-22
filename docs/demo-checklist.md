@@ -1,6 +1,6 @@
 # Demo checklist
 
-Use this checklist when recording the project demonstration or preparing screenshots.
+Use this checklist when recording the project demonstration.
 
 - [ ] Show the repository name and selected project.
 - [ ] Start from the documented command.
