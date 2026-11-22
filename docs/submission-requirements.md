@@ -1,6 +1,6 @@
 # Submission requirements
 
-Submit one GitHub repository for the selected project. The URL must be accessible to the instructor or shared through the course’s approved method.
+Submit one GitHub repository for the selected project. The URL must be accessible to fzj0007 as a collaborator.
 
 ## Required repository contents
 
@@ -12,15 +12,12 @@ Submit one GitHub repository for the selected project. The URL must be accessibl
 - `docs/COMPLEXITY.md` containing Big-O analysis for every required operation and a doubling-ratio or operation-count discussion when measurement is feasible.
 - `docs/TEST_PLAN.md` containing test categories, representative cases, expected behavior, and a record of test execution.
 - `data/` containing only small synthetic or clearly licensed fixtures.
-- `demo/` containing a short video link, screenshots, or both. Do not commit large generated files without instructor approval.
+- `demo/` containing a short video link, screenshots, or both. Do not commit large generated files.
 - A `.gitignore` that excludes build output, secrets, IDE files, and local configuration.
 - A generative-AI disclosure, if any AI tool was used. Explain what was generated, how it was checked, and what the team changed.
 
-## Required functionality
 
-The selected project specification contains the minimum features and required DSA focus. Optional features do not replace required features. If a team deliberately changes the scope, document the change and obtain instructor approval before submission.
-
-## Demonstration requirements
+## Demonstration and Presentation requirements
 
 The demonstration must show:
 
@@ -32,7 +29,7 @@ The demonstration must show:
 
 ## Clean-clone check
 
-Before submitting, use a fresh directory or a classmate’s machine:
+Before submitting, use a fresh directory:
 
 ```bash
 git clone <your-repository-url>
