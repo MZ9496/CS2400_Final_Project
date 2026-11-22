@@ -1,6 +1,6 @@
 # Learning outcomes
 
-By completing a DSA Project Studio project, students will be able to:
+By completing a DSA Project Studio project, you will be able to:
 
 1. **Model a problem:** identify entities, operations, constraints, and success criteria for a real-world scenario.
 2. **Choose data structures:** justify the use of arrays, lists, stacks, queues, maps, sets, trees, graphs, tries, heaps, or specialized structures based on the operations the application performs.
